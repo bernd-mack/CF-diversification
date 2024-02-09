@@ -7,7 +7,7 @@
   "logToFile": true,
 
   "address":"df1botAddress",
-  "cfAddresses": ["dZcHjYhKtEM88TtZLjp314H2xZjkztXtRc"],
+  "cfAddresses": ["dZcHjYhKtEM88TtZLjp314H2xZjkztXtRc", "df1qa6qjmtuh8fyzqyjjsrg567surxu43rx3na7yah"],
   "maxSwapPerBlock": 5000,
   "maxPercentMove": 0.1,
   "targetRatio": 0.3,
