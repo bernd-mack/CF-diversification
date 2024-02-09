@@ -10,7 +10,7 @@ from time import sleep
 
 import requests as requests
 
-NODE_URL = "http://127.0.0.1:8555/"
+NODE_URL = "http://127.0.0.1:8554/"
 NODE_USER = "satoshi"
 NODE_PASSWORD = "hunter12"
 
